@@ -1,10 +1,10 @@
 'use strict';
 var APP_CONFIG = {
-    COINNAME: "Paxcoin",
-    SYMBOL: "PAX",
-    SYMBOL_M: "mPAX",
+    COINNAME: "JBCCoin",
+    SYMBOL: "JBC",
+    SYMBOL_M: "mJBC",
     SYMBOL_BITS: "bits",
-    URL: 'paxcoin',
+    URL: 'jbcoin',
     SHOWMONEY: true
 };
 var lang = navigator.languages ?
