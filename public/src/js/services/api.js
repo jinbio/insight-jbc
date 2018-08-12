@@ -4,6 +4,6 @@ angular.module('insight.api')
   .factory('Api',
     function() {
       return {
-        apiPrefix: '/insight-pax-api'
+        apiPrefix: '/insight-jbc-api'
       }
     });
