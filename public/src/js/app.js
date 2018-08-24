@@ -1,6 +1,6 @@
 'use strict';
 var APP_CONFIG = {
-    COINNAME: "JBCCoin",
+    COINNAME: "JBCoin",
     SYMBOL: "JBC",
     SYMBOL_M: "mJBC",
     SYMBOL_BITS: "bits",
